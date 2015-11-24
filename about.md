@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Some information about our team:
-We are junior student in Electrical and Computer Engineering in Purdue. 
+We are junior student in Computer Engineering in Purdue. 
 
 Team member:
 Simin Jia, Siyi Cai, Hao Wang, Shenwei Wang
