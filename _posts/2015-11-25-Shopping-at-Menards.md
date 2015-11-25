@@ -5,7 +5,7 @@ title: Shopping at Menards
 
 We decided to buy something to build the exterior look.
 
-![_config.yml]({{ site.baseurl }}/images/receipt.png)
+![_config.yml]({{ site.baseurl }}/images/receipt.jpg)
 *We bought some plywood*
 
 We bought plywood, woodsaw, wood glue. The LEDs are still shipping and we got our pushbuttons. 
